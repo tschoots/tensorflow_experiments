@@ -1,0 +1,2 @@
+# command to see the nvida gpu memory
+nvidia-smi
