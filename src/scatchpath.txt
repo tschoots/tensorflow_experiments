@@ -1,2 +1,9 @@
 # command to see the nvida gpu memory
 nvidia-smi
+
+
+
+# LSTM examples in tensorflow
+https://www.tensorflow.org/tutorials/recurrent
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537
